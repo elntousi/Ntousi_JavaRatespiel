@@ -30,7 +30,7 @@ public class RatespielProjekt {
                         System.out.println("Falsch! Versuch es noch mal!");
                     }
                     } else {
-                        System.out.println("Bitte gib eine Zahl zwischen 0 und 10 ein.");
+                        System.out.println("Ungültige Eingabe! Bitte gib eine Zahl zwischen 0 und 10 ein.");
                     scanner.next(); //
                 }
             }
