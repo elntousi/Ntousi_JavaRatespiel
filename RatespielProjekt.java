@@ -11,7 +11,7 @@ public class RatespielProjekt {
         boolean nochmalSpielen = true;
 
         while (nochmalSpielen) {
-            int geheimZahl = random.nextInt(11); // Zahl zwischen 0 und 10
+            int geheimZahl = random.nextInt(11);
 
             System.out.println("Ich habe eine Zahl zwischen 0 und 10 ausgedacht. Rate sie!");
 
